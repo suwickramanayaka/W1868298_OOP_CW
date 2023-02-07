@@ -1,0 +1,21 @@
+Doctor Licence number :upali
+Doctor's name : Ananda
+Doctor's date of birthday : 1995.01.10
+Doctor's mobile number : 773477185
+Doctor's licence :02
+Doctor's specialization : EyeDoctor Licence number :Ramya
+Doctor's name : Mendis
+Doctor's date of birthday : 1979.06.24
+Doctor's mobile number : 718134160
+Doctor's licence :03
+Doctor's specialization : demotologyDoctor Licence number :Sithum
+Doctor's name : wickramanayaka
+Doctor's date of birthday : 2000.09.02
+Doctor's mobile number : 711319870
+Doctor's licence :01
+Doctor's specialization : DemotologyDoctor Licence number :hashini
+Doctor's name : wickramanayaka
+Doctor's date of birthday : 1997.01.10
+Doctor's mobile number : 773477185
+Doctor's licence :04
+Doctor's specialization : Heart
